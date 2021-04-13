@@ -26,7 +26,8 @@
               "status": "passed"
             },
             "match": {
-              "location": "steps.Hook.TearDownTest(io.cucumber.java.Scenario)"
+              "location": "steps.Hook.TearDownTest(io.cucumber.java.Scenario)",
+              "test": "test"
             }
           }
         ],
